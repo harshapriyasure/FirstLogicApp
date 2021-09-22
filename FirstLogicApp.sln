@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{151D2E53-A2C4-4D7D-83FE-D05416EBD58E}") = "FirstLogicApp", "FirstLogicApp\FirstLogicApp.deployproj", "{023CECDD-22BC-4972-99CE-F8F03880825E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{023CECDD-22BC-4972-99CE-F8F03880825E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{023CECDD-22BC-4972-99CE-F8F03880825E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{023CECDD-22BC-4972-99CE-F8F03880825E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{023CECDD-22BC-4972-99CE-F8F03880825E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {83C48B53-6260-461E-A2CA-FF3CABBE10F9}
+	EndGlobalSection
+EndGlobal
